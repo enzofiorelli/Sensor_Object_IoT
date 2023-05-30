@@ -1,0 +1,34 @@
+[
+    {
+        "id": "c1130dd3be8e966f",
+        "type": "influxdb out",
+        "z": "5115985c517ce316",
+        "influxdb": "631a47f1c9d20590",
+        "name": "",
+        "measurement": "temperatura",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "gas_sensor",
+        "bucket": "TestSensor",
+        "x": 1350,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "631a47f1c9d20590",
+        "type": "influxdb",
+        "hostname": "127.0.0.1",
+        "port": "8086",
+        "protocol": "http",
+        "database": "database",
+        "name": "",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "https://us-east-1-1.aws.cloud2.influxdata.com",
+        "rejectUnauthorized": true
+    }
+]
