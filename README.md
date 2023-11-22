@@ -1,11 +1,9 @@
 # Projeto de Objetos Inteligentes Conectados
 
 ## Descrição
-Este artigo descreve a ideia do grupo de criar um sistema que vai ajudar
-caso nem todas as pessoas dentro de um prédio ouçam o alarme durante um
-incêndio. Esse sensor enviará mensagem para todos dentro do prédio, fazendo com
-que eles esvaziem o lugar mais rápido do que esvaziaria com alguma pessoa indo
-avisar sala por sala de cada andar.
+Este artigo descreve a ideia do grupo de criar um sistema de sensor e disparo de alertas com o intuito de ajudar e informar
+as pessoas caso algum incêndio ocorra dentro de qualquer infraestrutura onde os mesmos estão. Esse sensor enviará mensagem para todos que estão dentro do prédio, fazendo com
+que os mesmos esvaziem o lugar de uma maneira mais rápida, através de uma única mensagem.
 
 ## Como executar
 ### Node-red
